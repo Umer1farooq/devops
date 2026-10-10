@@ -1,3 +1,4 @@
-#!/bin/bash
-echo "Starting deployment..."
-echo "Deployment completed!"
+﻿#!/bin/bash
+echo "Starting application deployment..."
+echo "Environment: staging branch"
+echo "Deployment completed successfully!"
